@@ -8,8 +8,10 @@ import com.github.rmagon.composite.composite.Chassis;
 
 /**
  * Date : 17/11/17
+ * <b>Intent as written in Design Patterns: Elements of reusable object-oriented software by Gang of Four</b>
  * Compose objects into tree structures to represent part-whole hierarchies.
  * Composite lets clients treat individual objects & compositions of objects uniformly.
+ * This is a sample Java Program for the example in the <a href="https://en.wikipedia.org/wiki/Design_Patterns">Design Patterns Book</a>
  *
  * @author rachitmagon
  */

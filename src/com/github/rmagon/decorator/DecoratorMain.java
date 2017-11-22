@@ -15,6 +15,7 @@ import com.github.rmagon.decorator.decorator.ScrollDecorator;
  * <p/>
  * As a client, {@link DecoratorMain} has a reference to the original {@link TextView} so that it can perform
  * operations which are specific to {@link TextView}
+ * This is a sample Java Program for the example in the <a href="https://en.wikipedia.org/wiki/Design_Patterns">Design Patterns Book</a>
  *
  * @author rachitmagon
  */

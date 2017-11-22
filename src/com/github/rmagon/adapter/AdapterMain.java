@@ -3,9 +3,9 @@ package com.github.rmagon.adapter;
 import com.github.rmagon.adapter.adapter.TextShape;
 import com.github.rmagon.adapter.shape.Line;
 import com.github.rmagon.adapter.shape.Manipulator;
-import com.github.rmagon.common.Point;
 import com.github.rmagon.adapter.shape.Shape;
 import com.github.rmagon.adapter.textview.TextView;
+import com.github.rmagon.common.Point;
 
 /**
  * Date : 15/11/17
@@ -16,6 +16,7 @@ import com.github.rmagon.adapter.textview.TextView;
  * <br/><b>Adaptee:</b> {@link TextView}
  * <br/><b>Adapter:</b> {@link TextShape}
  * <br/><b>Client:</b> {@link AdapterMain}
+ * This is a sample Java Program for the example in the <a href="https://en.wikipedia.org/wiki/Design_Patterns">Design Patterns Book</a>
  *
  * @author rachitmagon
  */
