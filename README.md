@@ -8,7 +8,7 @@ If you are a Java Developer and want to read through the Design Patterns Bible, 
 This section is currently `Work In Progress`. Please feel free to contribute.
 
 ## Structural Patterns
-1. [Adapter Pattern](https://github.com/rmagon/gof-patterns/tree/master/src/com/github/rmagon/structuralpatterns/adapter)
+1. [Adapter](https://github.com/rmagon/gof-patterns/tree/master/src/com/github/rmagon/structuralpatterns/adapter)
 2. [Bridge](https://github.com/rmagon/gof-patterns/tree/master/src/com/github/rmagon/structuralpatterns/bridge)
 3. [Composite](https://github.com/rmagon/gof-patterns/tree/master/src/com/github/rmagon/structuralpatterns/composite)
 4. [Decorator](https://github.com/rmagon/gof-patterns/tree/master/src/com/github/rmagon/structuralpatterns/decorator)
